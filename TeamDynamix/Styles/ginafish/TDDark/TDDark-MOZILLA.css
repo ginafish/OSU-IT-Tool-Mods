@@ -24,6 +24,10 @@ body, #divHeader {
 tr {
     background-color: #000000 !important;
 }
+/*Ticket Info*/
+#thTicket_copyControl_btnCopyTypeAndID, #thTicket_copyControl_btnCopyID, #btnCopyTypeAndID, #thTicket_copyControl_btnCopyTypeAndID, #btnCopyID {
+	background-color: #333333;
+}
 /*User Header Background*/
 .gutter.clearfix {
     background-color: #252525 !important;
